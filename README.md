@@ -1,6 +1,6 @@
 ## dynamic-datasource-v413-test
 
-- For https://github.com/linghengqian/spring-plugin-graalvm-agent-test
+- For https://github.com/linghengqian/spring-plugin-graalvm-agent-test and https://github.com/baomidou/dynamic-datasource/issues/545
 - Steps to reproduce on Ubuntu 22.04.3.
 ```shell
 sudo apt install unzip zip curl sed -y
